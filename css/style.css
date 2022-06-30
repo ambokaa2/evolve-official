@@ -196,7 +196,7 @@ label {
 }
 ::-webkit-scrollbar{
 	background-color: #0e0f15;
-	width: 13px;
+	width: 11px;
 }
 
 ::-webkit-scrollbar-track{
